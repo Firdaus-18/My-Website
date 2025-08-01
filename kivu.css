@@ -1,0 +1,149 @@
+
+    body {
+      margin: 0;
+      background-color: #101010;
+      color: white;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column; 
+      align-items: center;
+    }
+
+   
+    .hero {
+      background-image: url('kivu.jpg'); 
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: white;
+    }
+
+    .hero h2 {
+      font-size: 2.5rem;
+      font-weight: 200; 
+      margin-bottom: 20px;
+    }
+
+    .hero button {
+      padding: 15px 30px;
+      background-color: rgb(49, 49, 248);
+      color: white;
+      font-size: 20px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+.paragraph1 h1{
+    top: 100;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+
+   
+
+    
+ .paragraph1 p {
+  display: flex;
+  flex-direction: column;   
+  align-items: flex-start; 
+  justify-content: center ;  
+  gap: 20px;
+  padding: 100px 0 100px 40px; 
+  background-color: #080808;
+  color: white;
+  width: 100%; 
+  font-size: 25px;
+  font-weight: 200;
+ }
+
+
+ .image {
+    width: 50%;
+    height: 10%;
+    float: right;
+    margin-left:250px;
+ }
+    .page2{
+        background-color: #080808;
+        display: flex;
+        justify-content: space space-evenly;
+        padding: 40px;
+        width: 100%;
+    }
+
+    
+    .button {
+      margin: 0 auto;
+      display: block;
+      padding: 20px;
+      background-color: rgb(49, 49, 248);
+      color: white;
+      font-size: 20px;
+      border: none;
+      border-radius: 3px;
+      text-align: center;
+      text-decoration: none;
+      
+    }
+
+    .paragraph h1{
+    top: 100;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+    }
+  
+
+    .paragraph p {
+  display: flex;
+  flex-direction: column;   
+  align-items: flex-start; 
+  justify-content: center ;  
+  gap: 20px;
+  padding: 100px 0 100px 40px; 
+  background-color: #080808;
+  color: white;
+  width: 100%; 
+  font-size: 25px;
+  font-weight: 200;
+ }
+
+
+ .image2 {
+    width: 50%;
+    height: 10%;
+    float: right;
+    margin-left:250px;
+ }
+
+
+ .page3{
+        background-color: #080808;
+        display: flex;
+        justify-content: space space-evenly;
+        padding: 40px;
+        width: 100%;
+    }
+
+
+    .button3 {
+      margin: 0 auto;
+      display: block;
+      padding: 20px;
+      background-color: rgb(49, 49, 248);
+      color: white;
+      font-size: 20px;
+      border: none;
+      border-radius: 3px;
+      text-align: center;
+      text-decoration: none;
+      
+    } 
